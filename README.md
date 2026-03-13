@@ -38,7 +38,7 @@ This project uses the following tools:
 
 # Data Analysis Process
 1. Data Cleaning
-The raw dataset was reviewed and formatted to ensure consistent structure before analysis.
+- The raw dataset was reviewed and formatted to ensure consistent structure before analysis.
 
 2. SQL Analysis
 
@@ -49,8 +49,7 @@ The raw dataset was reviewed and formatted to ensure consistent structure before
 - quarterly economic trends
 
 3. Data Visualization
-
-The results were visualized using Power BI to create an interactive dashboard summarizing key insights.
+- The results were visualized using Power BI to create an interactive dashboard summarizing key insights.
 
 ## Dashboard Preview
 ![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-1.png)
