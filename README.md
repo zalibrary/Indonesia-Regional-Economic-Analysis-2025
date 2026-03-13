@@ -8,8 +8,8 @@ The objective of this project is to provide insights into regional economic stru
 # Dataset
 
 Dataset used in this project:
-.[PDRB Triwulanan Atas Dasar Harga Berlaku Menurut Lapangan Usaha di Kabupaten/Kota Seluruh Indonesia (2025)]https://www.bps.go.id/id/statistics-table/2/MjUzMyMy/pdrb-triwulanan-atas-dasar-harga-berlaku-menurut-lapangan-usaha-di-kabupaten-kota-seluruh-indonesia.html
-Source: Badan Pusat Statistik
+ [PDRB Triwulan Atas Dasar Harga Berlaku Menurut Lapangan Usaha di Kabupaten/Kota Seluruh Indonesia (2025)](https://www.bps.go.id/id/statistics-table/2/MjUzMyMy/pdrb-triwulanan-atas-dasar-harga-berlaku-menurut-lapangan-usaha-di-kabupaten-kota-seluruh-indonesia.html)
+ _Source: Badan Pusat Statistik_
 
 | Column Name        | Description                     | 
 | :----------------- | :-------------------------------| 
