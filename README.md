@@ -53,4 +53,4 @@ This project uses the following tools:
 
 ## Dashboard Preview
 ![Dashboard](https://github.com/zalibrary/Indonesia-Regional-Economic-Analysis-2025/blob/main/dashboard/Indonesia%20PDRB%202025%20Dashboard_page-0001.jpg)
-![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-2.png)
+![Dashboard](https://github.com/zalibrary/Indonesia-Regional-Economic-Analysis-2025/blob/main/dashboard/Indonesia%20PDRB%202025%20Dashboard_page-0002.jpg)
