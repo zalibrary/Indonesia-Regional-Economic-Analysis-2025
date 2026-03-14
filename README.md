@@ -23,7 +23,7 @@ Dataset used in this project:
 | sekunder_tahun   | secondary sector contribution     | 
 | tersier_tahun    | tertiary sector contribution      |
 
-# Business Questions
+## Business Questions
 This project explores several key questions:
 - Which regions have the largest economic output in Indonesia?
 - What economic sectors dominate different regions?
